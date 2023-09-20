@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sampada</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A computer science student</h3>
 <img align ="right" alt="coding" width="500" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trxshbugg&label=Profile%20views&color=0e75b6&style=flat" alt="trxshbugg" /> </p>
