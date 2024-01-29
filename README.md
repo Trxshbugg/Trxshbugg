@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/niraula_sampada" target="blank"><img src="https://img.shields.io/twitter/follow/niraula_sampada?logo=twitter&style=for-the-badge" alt="niraula_sampada" /></a> </p>
 
-- 🔭 I’m currently working on **customer segmentation**
+- 🔭  I’m currently learning **python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
